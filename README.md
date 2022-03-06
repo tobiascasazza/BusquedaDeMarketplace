@@ -1,4 +1,3 @@
-# BusquedaDeMarketplace
 
 # INSTRUCCIONES PARA QUE SEA FUNCIONAL AL CLIENTE
 - Debe iniciarse siempre para que el cliente funcione bien
