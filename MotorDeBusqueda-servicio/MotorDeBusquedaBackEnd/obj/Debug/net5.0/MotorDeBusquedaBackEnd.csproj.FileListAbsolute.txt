@@ -1,0 +1,28 @@
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.csproj.AssemblyReference.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.AssemblyInfoInputs.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.AssemblyInfo.cs
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\appsettings.json
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\MotorDeBusquedaBackEnd.exe
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\MotorDeBusquedaBackEnd.deps.json
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\MotorDeBusquedaBackEnd.runtimeconfig.json
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\MotorDeBusquedaBackEnd.runtimeconfig.dev.json
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\MotorDeBusquedaBackEnd.dll
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\bin\Debug\net5.0\MotorDeBusquedaBackEnd.pdb
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.csproj.AssemblyReference.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.AssemblyInfoInputs.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.AssemblyInfo.cs
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\scopedcss\bundle\MotorDeBusquedaBackEnd.styles.css
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\staticwebassets\MotorDeBusquedaBackEnd.StaticWebAssets.Manifest.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.dll
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\refint\MotorDeBusquedaBackEnd.dll
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.pdb
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\MotorDeBusquedaBackEnd.genruntimeconfig.cache
+C:\Users\tcasazza\OneDrive - ANDREANI LOGISTICA SA\Escritorio\Proyectos\Motor de Busqueda\MotorDeBusquedaBack\MotorDeBusquedaBackEnd\obj\Debug\net5.0\ref\MotorDeBusquedaBackEnd.dll
